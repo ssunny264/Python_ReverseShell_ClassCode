@@ -1,2 +1,2 @@
-# Python_ReverseShell_ClassCode
-Python code given during cybersecurity class - Reverse Shell
+# C_ReverseShell_ClassCode
+C code given during cybersecurity class - Reverse Shell
